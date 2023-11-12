@@ -1,5 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit";
-import finalPropsSelectorFactory from "react-redux/es/connect/selectorFactory";
 
 const initialState = {
     currentUser: null,
